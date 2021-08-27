@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{A169B486-ADA9-4608-AB91-DC9C0C6813F0}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="HPlusSportAPI/Models/Category.cs" Line="16" Column="1" />
+      <File FileName="HPlusSportAPI/Models/Product.cs" />
+      <File FileName="HPlusSportAPI/Models/User.cs" />
+      <File FileName="HPlusSportAPI/Models/Order.cs" />
+      <File FileName="HPlusSportAPI/Models/ShopContext.cs" />
+      <File FileName="HPlusSportAPI/Models/ModelBuilderExtensions.cs" />
+      <File FileName="HPlusSportAPI/Startup.cs" Line="62" Column="1" />
+      <File FileName="HPlusSportAPI/Controllers/ProductsController.cs" />
+      <File FileName="HPlusSportAPI/Program.cs" />
+      <File FileName="HPlusSportAPI/Properties/launchSettings.json" />
+      <File FileName="HPlusSportAPI/Classes/QueryParameters.cs" />
+      <File FileName="HPlusSportAPI/Classes/ProductQueryParameters.cs" />
+      <File FileName="HPlusSportAPI/Models/IQueryableExtensions.cs" />
+      <File FileName="HPlusSportAPI/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HPlusSport" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HPlusSportAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ajupulickal/Projects/HPlusSport/HPlusSportAPI/Controllers/ProductsController.cs" relfile="HPlusSportAPI/Controllers/ProductsController.cs" line="119" column="1" />
+      <Breakpoint file="/Users/ajupulickal/Projects/HPlusSport/HPlusSportAPI/Controllers/ProductsController.cs" relfile="HPlusSportAPI/Controllers/ProductsController.cs" line="216" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

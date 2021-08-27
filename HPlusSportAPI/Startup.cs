@@ -37,6 +37,7 @@ namespace HPlusSportAPI
                 options.DefaultApiVersion = new ApiVersion(1, 0);
                 options.AssumeDefaultVersionWhenUnspecified = true;
                 options.ApiVersionReader = new HeaderApiVersionReader("X-API-Version");
+                //Sample Comment
             });
         }
 
